@@ -44,7 +44,7 @@ MilkFlow is a native Android application built with Kotlin, designed to help loc
 | :---: |:---:|:---:|
 | ![1](https://github.com/user-attachments/assets/c135ae27-88ca-4d76-b508-df0ebcaeddb9) | ![2](https://github.com/user-attachments/assets/8f591d94-55ac-4519-a545-40323b23ad0d) | ![3](https://github.com/user-attachments/assets/69e64aad-e57f-415b-91fd-079cfc37ca56) |
 | **Customer List** | **Daily Sales Entry** | **Monthly Bill List** |
-| ![4](https://github.com/user-attachments/assets/0a220b54-46c6-46b3-a7e7-b08d8fd7a63d) | ![5](https://github.com/user-attachments/assets/e5030e9a-bf60-4d40-8b74-4975015ca7d4) | ![6](https://github.com/user-attachments/assets/42828959-79bb-485b-888f-1d97d2527298) |
+| ![4](https://github.com/user-attachments/assets/0a220b54-46c6-46b3-a7e7-b08d8fd7a63d) | ![5](https://github.com/user-attachments/assets/e5030e9a-bf60-4d40-8b74-4975015ca7d4) | ![6](https://github.com/user-attachments/assets/92d0f445-89c4-4fe2-a3b3-afe103e50143) |
 | **Generated Bill Details** | **Share Bill Options** | **Update Profile** |
 | ![7](https://github.com/user-attachments/assets/ec46cd68-d5da-4735-8dd0-7aa977218c3a) | ![8](https://github.com/user-attachments/assets/951826f9-7943-447f-a338-a3661602d9c6) | ![9](https://github.com/user-attachments/assets/65f3de28-c0da-4a0c-8579-212de2610b00) |
 | **Gujarati Language UI** | **Update Products** | **App Update Screen** |
